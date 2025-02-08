@@ -1,7 +1,6 @@
 <JGA020_13mm76_Type93_double.model>
-	<castsShadow>	false	</castsShadow>
-	<parent>	PnFMods/APR_IKOMA_for_Myoko1945/JSC008_Myoko_1945/gun/lods/JGA020_13mm76_Type93_double_lod1	</parent>
-	<extent>	2.0000	</extent>
-	<nodefullVisual>	PnFMods/APR_IKOMA_for_Myoko1945/JSC008_Myoko_1945/gun/JGA020_13mm76_Type93_double	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/APR_IKOMA_for_Myoko1945/JSC008_Myoko_1945/gun/JGA020_13mm76_Type93_double.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </JGA020_13mm76_Type93_double.model>

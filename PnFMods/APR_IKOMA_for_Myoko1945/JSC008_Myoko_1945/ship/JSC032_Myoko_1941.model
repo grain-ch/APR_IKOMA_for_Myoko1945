@@ -1,9 +1,0 @@
-<JSC032_Myoko_1941.model>
-	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/APR_IKOMA_for_Myoko1945/JSC008_Myoko_1945/ship/lods/JSC032_Myoko_1941_Full_lod4	</parent>
-	<extent>	400.0000	</extent>
-	<materialNames />
-	<castsShadow>	true	</castsShadow>
-	<nodefullVisual>	PnFMods/APR_IKOMA_for_Myoko1945/JSC008_Myoko_1945/ship/JSC032_Myoko_1941	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
-</JSC032_Myoko_1941.model>

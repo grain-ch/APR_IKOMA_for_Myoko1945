@@ -1,8 +1,0 @@
-<JGT027_610mm3_Type_93L_dead_lod1.model>
-	<extent>	6.000000	</extent>
-	<parent>	PnFMods/APR_IKOMA_for_Myoko1945/JSC008_Myoko_1945/gun/lods/JGT027_610mm3_Type_93L_dead_lod2	</parent>
-	<castsShadow>	true	</castsShadow>
-	<exporter>	1.6	</exporter>
-	<nodefullVisual>	PnFMods/APR_IKOMA_for_Myoko1945/JSC008_Myoko_1945/gun/lods/JGT027_610mm3_Type_93L_dead_lod1	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
-</JGT027_610mm3_Type_93L_dead_lod1.model>
